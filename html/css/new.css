@@ -1,0 +1,64 @@
+.mycontainer{
+    position:absolute;
+    top:27px;    
+    width:auto;
+}
+.bottomcontainer{
+    position:absolute;
+    bottom:100px;
+    width:auto;
+}
+.divhorizontal{
+    width:100%;
+    height:100%;
+    display:-webkit-box;
+    -webkit-box-oriet:horizontal;
+}
+.posdiv{
+    margin:0 3px;
+    -webkit-box-flex:1;    
+}
+.up{
+    font-size:16px;
+    color: green;
+    font-weight:bold;    
+}
+.down{
+    font-size:16px;
+    color: red;
+    font-weight:bold;    
+}
+.symb{
+    color: white;
+}
+.topfont{
+    color:black;
+    font-size:36px;
+    
+}
+.mycontainer2{
+    position:absolute;
+    top:97px;    
+    width:auto;
+}
+.navimage{
+    position:absolute;
+    top:0px;    
+    width:auto;
+    height:90px;
+}
+.fontcontrolbold{
+    color:#52001D;
+    font-weight:bold;
+    font-size:33px;
+}
+.fontcontrollight{
+    color:#52001D;
+    font-size:33px;
+    font-weight:lighter;
+}
+.mycontainer3{
+    position:absolute;
+    top:187px;    
+    width:auto;
+}
